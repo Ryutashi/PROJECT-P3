@@ -4,11 +4,11 @@
 }
 @font-face {
     font-family: 'fp3';
-    src: url(./fp3.TTF);
+    src: url(/fp3.TTF);
 }
 @font-face {
     font-family: 'Syncopate';
-    src: url(./Syncopate-Regular.ttf);
+    src: url(/Syncopate-Regular.ttf);
 }
 #hero::before {
     content: '';
