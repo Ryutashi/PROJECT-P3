@@ -4,11 +4,11 @@
 }
 @font-face {
     font-family: 'fp3';
-    src: url(/fp3.TTF);
+    src: url(../fp3.TTF);
 }
 @font-face {
     font-family: 'Syncopate';
-    src: url(/Syncopate-Regular.ttf);
+    src: url(../Syncopate-Regular.ttf);
 }
 #hero::before {
     content: '';
@@ -31,7 +31,7 @@
 }
 
 .titulo{
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:'fp3', 'Arial Narrow', Arial, sans-serif;
     background-color: #0fb1f5;
     color: white;
     position: relative;
