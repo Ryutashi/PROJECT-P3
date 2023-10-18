@@ -4,11 +4,11 @@
 }
 @font-face {
     font-family: 'fp3';
-    src: url(../fonts/fp3.TTF);
+    src: url(https://github.com/Ryutashi/PROJECT-P3/blob/main/fp3.TTF);
 }
 @font-face {
     font-family: 'Syncopate';
-    src: url(../fonts/Syncopate-Regular.ttf);
+    src: url(https://github.com/Ryutashi/PROJECT-P3/blob/main/Syncopate-Regular.ttf);
 }
 #hero::before {
     content: '';
